@@ -1,0 +1,1 @@
+Initial commit: market research collector and Streamlit dashboard
